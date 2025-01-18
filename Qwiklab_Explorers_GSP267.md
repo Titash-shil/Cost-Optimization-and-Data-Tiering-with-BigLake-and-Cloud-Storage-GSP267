@@ -1,6 +1,6 @@
 # Cost Optimization and Data Tiering with BigLake and Cloud Storage || [GSP267](https://www.cloudskillsboost.google/focuses/80700?parent=catalog) || 
 
-## # Like, comment, share & Don't forget to subscribe [Qwiklab_Explorers_ts](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN) 👍😄🤝
+## # Like, comment, share & Don't forget to subscribe [QwikLab Explorers](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN) 👍😄🤝
 
 ---
 ## ⚠️ **Disclaimer:**
@@ -25,6 +25,6 @@ sudo chmod +x qwiklab_explorers_gsp323.sh
 
 ## Thank you for visiting.... :) 🗯️
 
-## [Qwiklab_Explorers_ts](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN)
+## [QwikLab Explorers](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN)
 
 ## Join to our community [Digital Dominators](https://chat.whatsapp.com/J0o1beFGCHfJ8ZHGKjcqkd)
