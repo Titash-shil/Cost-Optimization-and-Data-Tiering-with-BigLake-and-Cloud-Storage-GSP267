@@ -10,11 +10,11 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Prepare-Data-for-ML-APIs-on-Google-Cloud-Challenge-Lab-GSP323/refs/heads/main/qwiklab_explorers_gsp323.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Cost-Optimization-and-Data-Tiering-with-BigLake-and-Cloud-Storage-GSP267/refs/heads/main/qwiklab_explorers_gsp267.sh
 
-sudo chmod +x qwiklab_explorers_gsp323.sh
+sudo chmod +x qwiklab_explorers_gsp267.sh
 
-./qwiklab_explorers_gsp323.sh
+./qwiklab_explorers_gsp267.sh
 ```
 
 ---
